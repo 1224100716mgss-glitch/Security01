@@ -1,5 +1,5 @@
 // LoginScreen.kt
-package mx.edu.utng.arg.security01.ui.screens
+package mx.edu.utng.mgss.security01.ui.screens
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
@@ -18,12 +18,12 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import mx.edu.utng.arg.security01.R
-import mx.edu.utng.arg.security01.models.AuthState
-import mx.edu.utng.arg.security01.ui.components.CustomTextField
-import mx.edu.utng.arg.security01.ui.components.ErrorDialog
-import mx.edu.utng.arg.security01.ui.components.LoadingButton
-import mx.edu.utng.arg.security01.viewmodel.AuthViewModel
+import mx.edu.utng.mgss.security01.R
+import mx.edu.utng.mgss.security01.models.AuthState
+import mx.edu.utng.mgss.security01.ui.components.CustomTextField
+import mx.edu.utng.mgss.security01.ui.components.ErrorDialog
+import mx.edu.utng.mgss.security01.ui.components.LoadingButton
+import mx.edu.utng.mgss.security01.viewmodel.AuthViewModel
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
 
