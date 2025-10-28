@@ -1,5 +1,5 @@
 // CustomTextField.kt
-package mx.edu.utng.arg.security01.ui.components
+package mx.edu.utng.mgss.security01.ui.components
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.text.KeyboardActions
