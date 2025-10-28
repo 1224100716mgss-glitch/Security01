@@ -1,5 +1,5 @@
 // HomeScreen.kt
-package mx.edu.utng.arg.security01.ui.screens
+package mx.edu.utng.mgss.security01.ui.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -20,9 +20,9 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import mx.edu.utng.arg.security01.models.AuthState
-import mx.edu.utng.arg.security01.models.User
-import mx.edu.utng.arg.security01.viewmodel.AuthViewModel
+import mx.edu.utng.mgss.security01.models.AuthState
+import mx.edu.utng.mgss.security01.models.User
+import mx.edu.utng.mgss.security01.viewmodel.AuthViewModel
 
 /**
  * Pantalla principal después del login
