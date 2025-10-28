@@ -1,13 +1,13 @@
 // NavGraph.kt
-package mx.edu.utng.arg.security01.navigation
+package mx.edu.utng.mgss.security01.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import mx.edu.utng.arg.security01.ui.screens.HomeScreen
-import mx.edu.utng.arg.security01.ui.screens.LoginScreen
-import mx.edu.utng.arg.security01.ui.screens.SplashScreen
+import mx.edu.utng.mgss.security01.ui.screens.HomeScreen
+import mx.edu.utng.mgss.security01.ui.screens.LoginScreen
+import mx.edu.utng.mgss.security01.ui.screens.SplashScreen
 
 /**
  * Rutas de navegación de la aplicación
