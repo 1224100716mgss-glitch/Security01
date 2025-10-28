@@ -1,5 +1,5 @@
 // LoginResponse.kt
-package mx.edu.utng.arg.security01.models
+package mx.edu.utng.mgss.security01.models
 
 /**
  * Respuesta que recibimos del servidor después del login
