@@ -1,10 +1,10 @@
 // MockApiService.kt
-package mx.edu.utng.arg.security01.network
+package mx.edu.utng.mgss.security01.network
 
 import kotlinx.coroutines.delay
-import mx.edu.utng.arg.security01.models.LoginRequest
-import mx.edu.utng.arg.security01.models.LoginResponse
-import mx.edu.utng.arg.security01.models.User
+import mx.edu.utng.mgss.security01.models.LoginRequest
+import mx.edu.utng.mgss.security01.models.LoginResponse
+import mx.edu.utng.mgss.security01.models.User
 import retrofit2.Response
 import java.util.UUID
 
