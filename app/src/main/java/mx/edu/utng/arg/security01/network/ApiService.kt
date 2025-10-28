@@ -1,8 +1,8 @@
 // ApiService.kt
-package mx.edu.utng.arg.security01.network
+package mx.edu.utng.mgss.security01.network
 
-import mx.edu.utng.arg.security01.models.LoginRequest
-import mx.edu.utng.arg.security01.models.LoginResponse
+import mx.edu.utng.mgss.security01.models.LoginRequest
+import mx.edu.utng.mgss.security01.models.LoginResponse
 import retrofit2.Response
 import retrofit2.http.Body
 import retrofit2.http.GET
