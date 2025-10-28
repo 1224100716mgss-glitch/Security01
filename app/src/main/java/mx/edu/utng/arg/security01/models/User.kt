@@ -1,5 +1,5 @@
 // User.kt
-package mx.edu.utng.arg.security01.models
+package mx.edu.utng.mgss.security01.models
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
