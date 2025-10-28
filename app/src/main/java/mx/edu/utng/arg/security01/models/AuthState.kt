@@ -1,5 +1,5 @@
 // AuthState.kt
-package mx.edu.utng.arg.security01.models
+package mx.edu.utng.mgss.security01.models
 
 /**
  * Representa los diferentes estados de autenticación
