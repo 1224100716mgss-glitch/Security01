@@ -1,5 +1,5 @@
 // RetrofitClient.kt
-package mx.edu.utng.arg.security01.network
+package mx.edu.utng.mgss.security01.network
 
 import android.util.Log
 import okhttp3.OkHttpClient
