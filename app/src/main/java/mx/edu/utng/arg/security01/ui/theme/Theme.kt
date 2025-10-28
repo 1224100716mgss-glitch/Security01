@@ -1,5 +1,5 @@
 // Theme.kt
-package mx.edu.utng.arg.security01.ui.theme
+package mx.edu.utng.mgss.security01.ui.theme
 
 import android.app.Activity
 import androidx.compose.foundation.isSystemInDarkTheme
