@@ -1,4 +1,4 @@
-package mx.edu.utng.arg.security01
+package mx.edu.utng.mgss.security01
 
 import org.junit.Test
 
