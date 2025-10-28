@@ -1,12 +1,12 @@
 // SecureStorage.kt
-package mx.edu.utng.arg.security01.security
+package mx.edu.utng.mgss.security01.security
 
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.security.crypto.EncryptedSharedPreferences.*
 import androidx.security.crypto.MasterKey
 import androidx.security.crypto.MasterKey.Builder
-import mx.edu.utng.arg.security01.models.User
+import mx.edu.utng.mgss.security01.models.User
 
 /**
  * Clase para almacenar datos sensibles de forma ENCRIPTADA
