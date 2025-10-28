@@ -1,5 +1,5 @@
 // Type.kt
-package mx.edu.utng.arg.security01.ui.theme
+package mx.edu.utng.mgss.security01.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
