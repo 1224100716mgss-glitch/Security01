@@ -5,11 +5,11 @@ plugins {
     alias(libs.plugins.kotlin.parcelize)
 }
 android {
-    namespace = "mx.edu.utng.arg.security01"
+    namespace = "mx.edu.utng.mgss.security01"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "mx.edu.utng.arg.security01"
+        applicationId = "mx.edu.utng.mgss.security01"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
