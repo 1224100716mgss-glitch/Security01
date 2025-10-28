@@ -1,5 +1,5 @@
 // SplashScreen.kt
-package mx.edu.utng.arg.security01.ui.screens
+package mx.edu.utng.mgss.security01.ui.screens
 
 import androidx.compose.animation.core.*
 import androidx.compose.foundation.Image
@@ -17,8 +17,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import kotlinx.coroutines.delay
-import mx.edu.utng.arg.security01.R
-import mx.edu.utng.arg.security01.viewmodel.AuthViewModel
+import mx.edu.utng.mgss.security01.R
+import mx.edu.utng.mgss.security01.viewmodel.AuthViewModel
 
 /**
  * Pantalla de Splash (Carga inicial)
