@@ -1,5 +1,5 @@
 // LoginRequest.kt
-package mx.edu.utng.arg.security01.models
+package mx.edu.utng.mgss.security01.models
 
 /**
  * Datos necesarios para hacer login
