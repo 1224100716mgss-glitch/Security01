@@ -1,5 +1,5 @@
 // MainActivity.kt
-package mx.edu.utng.arg.security01
+package mx.edu.utng.mgss.security01
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -12,10 +12,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.navigation.compose.rememberNavController
-import mx.edu.utng.arg.security01.navigation.NavigationGraph
-import mx.edu.utng.arg.security01.navigation.Screen
-import mx.edu.utng.arg.security01.ui.theme.Security01Theme
-import mx.edu.utng.arg.security01.viewmodel.AuthViewModel
+import mx.edu.utng.mgss.security01.navigation.NavigationGraph
+import mx.edu.utng.mgss.security01.navigation.Screen
+import mx.edu.utng.mgss.security01.ui.theme.Security01Theme
+import mx.edu.utng.mgss.security01.viewmodel.AuthViewModel
 
 /**
  * Activity Principal de la aplicación
