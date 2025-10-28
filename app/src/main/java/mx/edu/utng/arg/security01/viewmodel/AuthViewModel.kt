@@ -1,5 +1,5 @@
 // AuthViewModel.kt
-package mx.edu.utng.arg.security01.viewmodel
+package mx.edu.utng.mgss.security01.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
@@ -8,9 +8,9 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
-import mx.edu.utng.arg.security01.models.AuthState
-import mx.edu.utng.arg.security01.models.User
-import mx.edu.utng.arg.security01.repository.AuthRepository
+import mx.edu.utng.mgss.security01.models.AuthState
+import mx.edu.utng.mgss.security01.models.User
+import mx.edu.utng.mgss.security01.repository.AuthRepository
 
 /**
  * ViewModel para gestionar la autenticación
